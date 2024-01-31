@@ -1,2 +1,2 @@
 # MDP-Based_Path_Planning_and_Optimization
-Solved MDP by Value Iteration and Policy Iteration algorithms with a known dynamics and reward,  𝑇  and  𝑅  , respectively.
+Solved MDP by Value Iteration and Policy Iteration algorithms with a known dynamics and reward,  𝑇  and  𝑅  , respectively. Applied sequential decision-making techniques using Markov Decision Processes (MDPs) to find optimal paths in maze environments. Utilized the Value Iteration and Policy Iteration algorithms to compute optimal policies for navigating mazes. Improved computational efficiency by implementing tensor broadcasting technique.
